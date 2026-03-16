@@ -2,6 +2,12 @@
 
 ###
 
+<div align="center">
+  <img height="300" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif"  />
+</div>
+
+###
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielChalarca&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
@@ -38,9 +44,5 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
 </div>
-
-###
-
-<img align="left" height="300" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif"  />
 
 ###
