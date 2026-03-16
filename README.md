@@ -1,13 +1,8 @@
-
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
-
 <h2 align="left">-.. .- -. .. . .-.. / -.-. .... .- .-.. .- .-. -.-. .-<br>Full-Stack Developer</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielChalarca&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
@@ -23,10 +18,6 @@ Fork on Github
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img align="left" height="300" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif"  />
 
 ###
 
@@ -47,5 +38,9 @@ Fork on Github
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
 </div>
+
+###
+
+<img align="left" height="300" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif"  />
 
 ###
