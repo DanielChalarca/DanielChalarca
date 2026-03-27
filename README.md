@@ -2,6 +2,10 @@
 
 ###
 
+<p align="center">Full Stack Developer with experience building and maintaining modern web applications using Python, JS, React, and NestJS. Passionate about clean code, continuous learning, and delivering efficient solutions.</p>
+
+###
+
 <div align="center">
   <img height="300" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif"  />
 </div>
